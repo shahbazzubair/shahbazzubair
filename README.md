@@ -18,7 +18,7 @@ I'm a passionate **AI/ML Developer** and **BSIT student** at the **University of
 **Key Highlights:**
 - 🧠 Specialized in **Artificial Intelligence & Machine Learning**
 - 🖼️ Expertise in **Computer Vision** and **Image Processing**
-- 🌐 Full-stack web development with **Flask** and **Django**
+- 🌐 Full-stack web development with **Django**
 - 📊 Data manipulation and analysis using **Pandas & NumPy**
 - 🔧 Building production-ready, scalable applications
 - 💡 Passionate about transforming complex problems into elegant solutions
@@ -38,7 +38,6 @@ I'm a passionate **AI/ML Developer** and **BSIT student** at the **University of
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
