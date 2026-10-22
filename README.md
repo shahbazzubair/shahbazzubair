@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Muhammad Shahbaz</h1>
-<h3>Software Engineer &nbsp;·&nbsp; Full-Stack + AI &nbsp;·&nbsp; BSIT @ PUCIT</h3>
+<h3>IT Systems & Network Associate &nbsp;·&nbsp; Enterprise Infrastructure & Endpoint Operations &nbsp;·&nbsp; BSIT @ PUCIT</h3>
 
 <br/>
 
@@ -23,48 +23,48 @@
 
 ### 🚀 About Me
 
-A **Full-Stack Software Engineer** dedicated to building robust web applications and enterprise solutions. I specialize in developing scalable architectures from the ground up and enhancing them with **Machine Learning models** and **Smart Automation** workflows.
+An **IT Systems & Network Associate** dedicated to maintaining reliable IT operations, managing endpoint infrastructure, and supporting core network setup. Experienced in combining automated systems deployment with hands-on hardware and network administration.
 
-- 💻 Building complete, end-to-end web architectures and enterprise systems
-- 🧠 Enhancing applications by integrating custom **AI & Computer Vision** models
-- ⚡ Streamlining processes using **Agentic AI** and advanced automation pipelines
-- 🤝 Always open to collaborating on innovative, real-world tech projects
+- 🖥️ Managing enterprise endpoint deployments, OS imaging, and patch policies using **ManageEngine Endpoint Central**
+- 🌐 Configuring and monitoring network infrastructure including **Switches, Access Points, WLCs, and VLANs**
+- 📐 Modeling and mapping multi-building campus network topologies in **Cisco Packet Tracer**
+- 🛠️ Resolving daily hardware/software incidents, managing Active Directory assets, and maintaining clear IT documentation
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Systems
 
-**🌐 Web Development**
+**🖥️ Systems, OS & Endpoint Management**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows Server & OS" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" title="Ubuntu / Linux" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" title="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" title="Command Line / Bash / WSL" />
+</p>
+
+**💻 Virtualization & Homelab**
+
+<p>
+  <img src="https://img.shields.io/badge/VMware-60B5E5?style=for-the-badge&logo=vmware&logoColor=white" height="35" title="VMware Workstation" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="35" title="Oracle VirtualBox" />
+</p>
+
+**🌐 Networking & Security**
+
+<p>
+  <img src="https://cdn.simpleicons.org/cisco/049FD9" height="40" title="Cisco Switches & Networking" />
+  <img src="https://cdn.simpleicons.org/wireshark/167EC6" height="40" title="Wireshark" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" title="PuTTY / SSH / Terminal" />
+</p>
+
+**⚙️ Developer Tools & Scripting**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" title="FastAPI" />
-</p>
-
-**🤖 AI, ML & Automation**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" title="OpenCV" />
-  <img src="https://cdn.simpleicons.org/keras/D00000" height="40" title="Keras" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" title="Scikit-Learn" />
-  <img src="https://cdn.simpleicons.org/n8n/FF6584" height="40" title="n8n" />
-</p>
-
-**☁️ Databases, Cloud & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
 </p>
 
 ---
@@ -106,5 +106,5 @@ A **Full-Stack Software Engineer** dedicated to building robust web applications
 ---
 
 <div align="center">
-  <sub>Designed & built by <b>Muhammad Shahbaz</b> · <i>Turning ideas into reality through Code and AI</i></sub>
+  <sub>Designed & built by <b>Muhammad Shahbaz</b> · <i>Keeping enterprise systems stable and network infrastructure reliable</i></sub>
 </div>
